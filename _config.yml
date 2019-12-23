@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://s.gravatar.com/avatar/54f3a0db05614b0d3a61b449d5cf8577?s=80"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
